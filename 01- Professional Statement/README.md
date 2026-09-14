@@ -22,13 +22,6 @@ It reflects my motivation to build a career in cybersecurity and my commitment t
 
 ---
 
-## Files
-
-- 📄 [Professional Statement](Professional_Statement.md)
-- 📑 [Professional Statement PDF](01- Professional Statement/professional statement.pdf)
-
----
-
 > **Activity:** Professional Statement  
 > **Course:** Google Cybersecurity Professional Certificate – Course 1  
 > **Focus:** Career goals, skills, values, and professional development
