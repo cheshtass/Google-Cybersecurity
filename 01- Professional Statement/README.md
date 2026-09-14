@@ -25,7 +25,7 @@ It reflects my motivation to build a career in cybersecurity and my commitment t
 ## Files
 
 - 📄 [Professional Statement](Professional_Statement.md)
-- 📑 [Professional Statement PDF](Professional_Statement.pdf)
+- 📑 [Professional Statement PDF](professional_statement.pdf)
 
 ---
 
